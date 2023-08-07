@@ -1,0 +1,24 @@
+{
+    "data_file_root": "./test_data",
+    "label_file_root": "./test_data_label",
+    "image_list": [
+        [
+            "./img/left_0.png",
+            "./img/right_0.png",
+            "./img/legs_0.png",
+            "./img/tongue_0.jpeg"
+        ],
+        [
+            "./img/left_1.png",
+            "./img/right_1.png",
+            "./img/legs_1.png",
+            "./img/tongue_1.png"
+        ]
+    ],
+    "stop_image": [
+        "./img/white_stop.jpg",
+        "./img/black_stop.jpg"
+    ],
+    "combined_file_root": "./test_data_combined",
+    "board_id": 2
+}
